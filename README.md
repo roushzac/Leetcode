@@ -1,2 +1,2 @@
 # Leetcode
-Leetcode problems
+This is a repository of completed Leetcode problems
